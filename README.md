@@ -63,6 +63,8 @@ Busca los siguientes archivos en cada una de las rutas:
 * Este parche funciona únicamente con la versión de Minecraft descargada desde la **Microsoft Store**.
 * Es necesario ejecutar el proceso con **privilegios de administrador**.
 * Modificar archivos del sistema siempre conlleva un riesgo. Procede con precaución.
+* Este parche solo debe ser usado para versiones de windows que tengan problemas con la microsoft store 
+Cualquier otro uso queda totalmente prohibido y cae bajo responsabilidad del usuario.
 
 
 
